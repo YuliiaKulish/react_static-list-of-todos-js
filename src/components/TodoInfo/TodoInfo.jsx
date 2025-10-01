@@ -1,4 +1,4 @@
-import { UserInfo } from '../UserInfo';
+import { UserInfo } from '../UserInfo/UserInfo';
 
 export const TodoInfo = ({ todo }) => {
   const todoClass = todo.completed
